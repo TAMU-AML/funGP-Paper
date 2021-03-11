@@ -1,7 +1,7 @@
 # Computer code for `Gaussian process aided function comparison using noisy scattered data`
 
 ## Description: 
-This repository contains `MATLAB` code for reproducing the results in the paper: "Gaussian process aided function comaprison using noisy scattered data."
+This repository contains `MATLAB` code for reproducing the results in the paper: "Gaussian process aided function comparison using noisy scattered data."
 
 ## Folders:
 1. **Algorithm** - Contains the implementation for the funGP algorithm.
