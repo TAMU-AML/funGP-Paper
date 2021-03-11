@@ -1,4 +1,4 @@
-# Computer code for `Gaussian process aided function comaprison using noisy scattered data`
+# Computer code for `Gaussian process aided function comparison using noisy scattered data`
 
 ## Description: 
 This repository contains `MATLAB` code for reproducing the results in the paper: "Gaussian process aided function comaprison using noisy scattered data."
